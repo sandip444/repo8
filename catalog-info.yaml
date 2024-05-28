@@ -2,7 +2,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: git-test-repo
+  name: git-test-repo8
 spec:
   type: openapi
   lifecycle: production
